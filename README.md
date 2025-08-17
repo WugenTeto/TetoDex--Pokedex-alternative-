@@ -26,7 +26,7 @@ Using the [PokeAPI](https://pokeapi.co/), TetoDex allows you to browse Pokémon 
 ## 🖼️ Screenshots / Demo
 
 <p align="center">
-  <img src="https://your-image-url.com/pokedex-screenshot.png" alt="TetoDex Screenshot" width="600"/>
+  <img src="assets/pokedex-screenshot.png" alt="TetoDex Screenshot" width="600"/>
 </p>
 
 > The interface resembles the classic handheld Pokédex with interactive search and type filters.
