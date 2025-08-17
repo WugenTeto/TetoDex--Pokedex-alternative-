@@ -4,32 +4,45 @@
 [![Built with React](https://img.shields.io/badge/Built%20with-React-blue.svg)](https://reactjs.org/)
 [![API: PokeAPI](https://img.shields.io/badge/API-PokeAPI-green.svg)](https://pokeapi.co/)
 
-## 🚀 Proje Hakkında
+---
 
-**TetoDex**, Pokémon meraklıları için modern bir Pokédex alternatifidir.  
-Bu proje, PokeAPI kullanarak Pokémon'ların türlerini, istatistiklerini, yeteneklerini ve evrimlerini kolayca görüntülemenizi sağlar.
+## 🚀 About TetoDex
+
+**TetoDex** is a modern Pokédex alternative designed for Pokémon enthusiasts.  
+Using the [PokeAPI](https://pokeapi.co/), TetoDex allows you to browse Pokémon details including types, stats, abilities, and evolutions, all in a clean and interactive interface reminiscent of a classic Pokédex device.
 
 ---
 
-## 🔑 Özellikler
+## 🔑 Features
 
-- Pokémon arama ve filtreleme (isim, numara, tür)
-- Evrim ağaçlarını görsel olarak görüntüleme
-- Her Pokémon için detaylı istatistikler ve yetenek bilgisi
-- Modern ve kullanıcı dostu arayüz (React tabanlı)
+- **Search Pokémon** by name or number  
+- **Filter by Type** to explore specific Pokémon types  
+- **Visual Evolution Trees** for each Pokémon  
+- **Detailed Stats & Abilities** for every Pokémon  
+- **Pokedex-like User Interface**, designed for familiar Pokémon navigation  
 
 ---
 
-## 💻 Kurulum
+## 🖼️ Screenshots / Demo
 
-### Gereksinimler
+<p align="center">
+  <img src="https://your-image-url.com/pokedex-screenshot.png" alt="TetoDex Screenshot" width="600"/>
+</p>
+
+> The interface resembles the classic handheld Pokédex with interactive search and type filters.
+
+---
+
+## 💻 Installation
+
+### Prerequisites
 
 - Node.js v16+
 - npm (Node Package Manager)
 
-### Adımlar
+### Steps
 
-1. Depoyu klonlayın:
+1. Clone the repository:
 
 ```bash
 git clone https://github.com/WugenTeto/TetoDex--Pokedex-alternative-
